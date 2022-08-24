@@ -1,0 +1,16 @@
+LICENSE
+pyproject.toml
+src/cavity/__init__.py
+src/cavity/core.py
+src/cavity/test.py
+src/cavity.egg-info/PKG-INFO
+src/cavity.egg-info/SOURCES.txt
+src/cavity.egg-info/dependency_links.txt
+src/cavity.egg-info/top_level.txt
+src/cavity/EXAMPLES/L_R_probability_map.py
+src/cavity/EXAMPLES/__init__.py
+src/cavity/EXAMPLES/plot_p.py
+src/cavity/EXAMPLES/plot_results.py
+src/cavity/EXAMPLES/DEBUG/check_optimum.py
+src/cavity/EXAMPLES/DEBUG/test_diameter_limit.py
+src/cavity/EXAMPLES/DEBUG/test_optimise.py

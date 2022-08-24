@@ -1,0 +1,12 @@
+**/data
+**/backup
+**/plotting
+**/working_*
+**/__pycache__
+/L_R_data/
+*dump*
+*.pkl
+*.csv
+*.npy
+*.pdf
+*.png
